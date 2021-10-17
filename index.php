@@ -271,9 +271,9 @@
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
-							<h1>Fakhrotunnisa &amp; Aditya</h1>
+							<h1 style="margin-top:80%">Fakhrotun Nisa &amp; Aditya</h1>
 							<h2>We Are Getting Married</h2>
-							<div class="simply-countdown simply-countdown-one"></div>
+							<!-- <div class="simply-countdown simply-countdown-one"></div> -->
 							
 							<p>
 
@@ -300,8 +300,8 @@
 			</div>
 			<div class="couple-wrap animate-box">
 				<div class="couple-half">
-					<div class="groom">
-						<img src="images/undangan/wanita.jpg" alt="groom" class="img-responsive">
+					<div class="">
+						<img src="images/undangan/wanitaaa.jpeg" alt="groom" class="img-responsive" style="border-radius:10px">
 					</div>
 					<div class="desc-groom">
 						<h3 style="text-align: center;font-size: 31px;color: white;">Fakhrotun Nisa</h3>
@@ -310,8 +310,8 @@
 				</div>
 				<p class="heart text-center"><i class="icon-heart2"></i></p>
 				<div class="couple-half">
-					<div class="bride">
-						<img src="images/undangan/pria.jpg" alt="groom" class="img-responsive">
+					<div class="">
+						<img src="images/undangan/priaaa.jpeg" alt="groom" class="img-responsive" style="border-radius:10px">
 					</div>
 					<div class="desc-bride">
 						<h3 style="text-align: center;font-size: 31px;color: white;">Aditya Arif Pratama</h3>
@@ -337,12 +337,12 @@
 					<div class="display-tc">
 						<div class="col-md-10 col-md-offset-1">
 							<div class="col-md-6 col-sm-6 text-center">
-								<div class="event-wrap animate-box">
+								<div class="event-wrap animate-box" style="background:none;border:none;">
 									<h3>Akad Nikah</h3>
 									<div class="event-col">
 										<i class="icon-clock"></i>
 										<span>08:00</span>
-										<span>09:00</span>
+										<span>12:00</span>
 									</div>
 									<div class="event-col">
 										<i class="icon-calendar"></i>
@@ -355,23 +355,7 @@
 									
 								</div>
 							</div>
-							<div class="col-md-6 col-sm-6 text-center">
-								<div class="event-wrap animate-box">
-									<h3>Resepsi</h3>
-									<div class="event-col">
-										<i class="icon-clock"></i>
-										<span>10:00</span>
-										<span>12:00</span>
-									</div>
-									<div class="event-col">
-										<i class="icon-calendar"></i>
-										<span>Sabtu 23</span>
-										<span>Oktober, 2021</span>
-									</div>
-									<i class="icon-location"></i>
-									<p>RM. Saung Ema</p>
-								</div>
-							</div>
+							
 						</div>
 					</div>
 				</div>
@@ -401,10 +385,7 @@
 						    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
 						    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
 						    <li data-target="#carousel-example-generic" data-slide-to="4"></li>
-						    <li data-target="#carousel-example-generic" data-slide-to="5"></li>
-						    <li data-target="#carousel-example-generic" data-slide-to="6"></li>
-						    <li data-target="#carousel-example-generic" data-slide-to="7"></li>
-						    <li data-target="#carousel-example-generic" data-slide-to="8"></li>
+						    
 						    
 						  </ol>
 
@@ -428,30 +409,15 @@
 						       
 						      </div>
 						    </div>
-						    <div class="item">
-						      <img src="images/undangan/2.jpeg" alt="...">
-						      <div class="carousel-caption">
-						        
-						      </div>
-						    </div>
-						    <div class="item">
-						      <img src="images/undangan/4.jpeg" alt="...">
-						      <div class="carousel-caption">
-						        
-						      </div>
-						    </div>
+						    
+						    
 						    <div class="item">
 						      <img src="images/undangan/cover-depan.jpeg" alt="...">
 						      <div class="carousel-caption">
 						        
 						      </div>
 						    </div>
-						    <div class="item">
-						      <img src="images/undangan/pria.jpeg" alt="...">
-						      <div class="carousel-caption">
-						        
-						      </div>
-						    </div>
+						    
 						    <div class="item">
 						      <img src="images/undangan/wanita.jpeg" alt="...">
 						      <div class="carousel-caption">
@@ -503,6 +469,10 @@
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 					<p>Namun dikarenakan keterbatasan kondisi saat ini, mohon maaf kami hanya mengundang keluarga dan kerabat terdekat untuk menghadiri acara secara langsung.</p>
 					<h2 style="font-size: 25px;">Wassalamu’alaikum Warahmatullahi Wabarakatuh</h2>
+				</div>
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>New Normal Protocols</h2>
+					<img src="images/covid.png" style="width:100%;" class="animate-box" />
 				</div>
 					
 			
