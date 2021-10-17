@@ -230,7 +230,7 @@
 				<div style="margin-top:10%;">
 					<p style="font-family:'Photograph Signature', Sans-serif;text-align:center;color:white;font-size:40px">Fakhrotun Nisa & Aditya</p>
 				</div>
-				<div style="margin-top:100%">
+				<div style="margin-top:80%">
 					<div style="margin-top:10%;text-align:center;">
 						<h3 style="color:white;margin-bottom:0"></h3>
 						<p style="color:white"></p>
