@@ -14,7 +14,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Wedding &mdash; Fakhrotunnisa-Aditya</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
+	<meta name="description" content="Pernikahan Fakhrotun Nisa dan Aditya" />
 	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
 	<meta name="author" content="FREEHTML5.CO" />
 	<link rel="shortcut icon" href="images/wedding-rings.png">
@@ -311,7 +311,7 @@
 				<p class="heart text-center"><i class="icon-heart2"></i></p>
 				<div class="couple-half">
 					<div class="">
-						<img src="images/undangan/priaaa.jpeg" alt="groom" class="img-responsive" style="border-radius:10px">
+						<img src="images/undangan/pria1.jpeg" alt="groom" class="img-responsive" style="border-radius:10px">
 					</div>
 					<div class="desc-bride">
 						<h3 style="text-align: center;font-size: 31px;color: white;">Aditya Arif Pratama</h3>
@@ -338,21 +338,22 @@
 						<div class="col-md-10 col-md-offset-1">
 							<div class="col-md-6 col-sm-6 text-center">
 								<div class="event-wrap animate-box" style="background:none;border:none;">
-									<h3>Akad Nikah</h3>
-									<div class="event-col">
-										<i class="icon-clock"></i>
-										<span>08:00</span>
-										<span>12:00</span>
-									</div>
-									<div class="event-col">
-										<i class="icon-calendar"></i>
-										<span>Sabtu 23</span>
-										<span>Oktober, 2021</span>
+									<i class="icon-users" style="background-color:black;border-radius:100%; padding: 0.5em 0.5em;font-size:40px"></i>
+									<h3 style="margin-top:10%;">Akad Nikah</h3>
+									<div class="" style="margin-bottom:12%">
 										
+										<span>Sabtu, 23 Oktober 2021</span>
+										<span>Pkl 08:00-12:00</span>
 									</div>
-									<i class="icon-location"></i>
-									<p>RM. Saung Ema</p>
 									
+									<i class="icon-location" style="background-color:black;border-radius:100%; padding: 0.5em 0.5em;font-size:40px"></i>
+									<h3 style="margin-top:10%;">Lokasi</h3>
+									<div class="" style="margin-bottom:10%">
+										
+										<span>RM Saung Ema</span>
+										<span>Jalan RA Moetarsih, Kuningan, Kec. Kuningan, Kabupaten Kuningan, Jawa Barat 45511</span>
+									</div>
+										
 								</div>
 							</div>
 							
