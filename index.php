@@ -288,12 +288,12 @@
 		</div>
 	</header>
 
-	<div id="fh5co-couple" style="background-color: #609377;background-repeat: no-repeat;background-size: cover;">
+	<div id="fh5co-couple" style="background-color: #89b6e0;background-repeat: no-repeat;background-size: cover;">
   		<div class="overlay"></div>	
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
-					<img src="images/bunga4.png" width="220px" height="70" style="padding-bottom:20px;"/>
+					<!-- <img src="images/bunga4.png" width="220px" height="70" style="padding-bottom:20px;"/> -->
 					<h2 style="font-size: 25px;color: white;">Assalamu’alaikum Warahmatullahi Wabarakatuh</h2>
 					<p style="color: white;">Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu isteri-isteri dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berfikir.<br>(Q.S. Ar Rum:21)</p>
 				</div>
@@ -322,13 +322,13 @@
 		</div>
 	</div>
 
-	<div id="fh5co-event" class="fh5co-bg" style="background-color: #609377;">
+	<div id="fh5co-event" class="fh5co-bg" style="background-color: #89b6e0;">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
 					<!-- <span>Our Special Events</span> -->
-					<img src="images/bunga4.png" width="220px" height="70" style="padding-bottom:20px;"/>
+					<!-- <img src="images/bunga4.png" width="220px" height="70" style="padding-bottom:20px;"/> -->
 					<h2>Wedding Events</h2>
 				</div>
 			</div>
@@ -362,11 +362,11 @@
 			</div>
 		</div>
 	</div>
-	<div id="fh5co-gallery" class="fh5co-section-gray" style="background-color: #609377;background-repeat: no-repeat;background-size: cover;">
+	<div id="fh5co-gallery" class="fh5co-section-gray" style="background-color: #89b6e0;background-repeat: no-repeat;background-size: cover;">
 		<div class="container" style="font-family: 'Work Sans', sans-serif;">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
-				<img src="images/bunga4.png" width="220px" height="70" style="padding-bottom:20px;"/>
+				<!-- <img src="images/bunga4.png" width="220px" height="70" style="padding-bottom:20px;"/> -->
 					<h2 style="color: white;">Our Gallery</h2>
 					<p>
 					
@@ -385,7 +385,7 @@
 						    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
 						    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
 						    <li data-target="#carousel-example-generic" data-slide-to="4"></li>
-						    
+						    <li data-target="#carousel-example-generic" data-slide-to="5"></li>
 						    
 						  </ol>
 
@@ -420,6 +420,13 @@
 						    
 						    <div class="item">
 						      <img src="images/undangan/wanita.jpeg" alt="...">
+						      <div class="carousel-caption">
+						        
+						      </div>
+						    </div>
+
+							<div class="item">
+						      <img src="images/undangan/3.jpeg" alt="...">
 						      <div class="carousel-caption">
 						        
 						      </div>
@@ -486,7 +493,7 @@
 				<div class="row animate-box">
 					<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 						<!-- <span>Best Wishes</span> -->
-						<img src="images/bunga3.png" width="220px" height="70" style="padding-bottom:20px;"/>
+						<!-- <img src="images/bunga3.png" width="220px" height="70" style="padding-bottom:20px;"/> -->
 						<h2>Friends Wishes</h2>
 					</div>
 				</div>
